@@ -2,9 +2,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/lanpesk?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/lanpesk?style=social)
 
-- 🏫 A graduate student at SEU
-- 👀 I’m interested in CTF, main Crypto and Binary
-- 📫 How to reach me: lanpesk@outlook.com
+- 🏫 SEU student
+- 👀 A NOOB
+- 📫 lanpesk@outlook.com
 
 <!---
 lanpesk/lanpesk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
